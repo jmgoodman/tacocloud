@@ -48,4 +48,6 @@
 		</plugins>
 	</build>
 
+	<!--No spring-milestones repositories were generated (pp. 13-14). Should I add them?-->
+
 </project>
